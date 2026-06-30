@@ -6,7 +6,7 @@
 
 /* ─── Stream URL ──────────────────────────────────────────── */
 /* SUBSTITUA PELA URL DO SEU STREAM DE RÁDIO */
-const STREAM_URL = 'https://stream-url-aqui.com/topfm909';
+const STREAM_URL = 'https://painel.radiosms.com.br/8890/stream';
 
 /* ─── Sponsor Data ────────────────────────────────────────── */
 const sponsors = [
